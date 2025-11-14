@@ -1,0 +1,3 @@
+/Users/frankieroger/Desktop/C_projects/progetti_personali/checkers/cmake-build-debug/CMakeFiles/checkers.dir
+/Users/frankieroger/Desktop/C_projects/progetti_personali/checkers/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/frankieroger/Desktop/C_projects/progetti_personali/checkers/cmake-build-debug/CMakeFiles/rebuild_cache.dir
