@@ -4,4 +4,4 @@ It also has 3 playable modes:
 - 2p ('Two players') : Play with a friend! It allows 2 humans to play against each other.
 - bot : It fully uses the semi-randominc logic to auto-play, to let the computer have a full game by itself.
 
-Have fun :).
+Have fun :)
